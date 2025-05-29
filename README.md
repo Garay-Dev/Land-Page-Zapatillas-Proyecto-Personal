@@ -1,0 +1,2 @@
+Es un proyecto personal para practicar el uso de html, css, js, figma y git creando una landpage. Espero poder usar este proyecto como portafolio, es mi primer proyecto y aprendo de manera totalmente autónoma, agresco cualquier crítica o comentario.
+This is a personal project to practice using HTML, CSS, JS, Figma, and Git while creating a website. I hope to use this project as a portfolio. It's my first project, and I'm learning completely independently. I welcome any criticism or feedback.
